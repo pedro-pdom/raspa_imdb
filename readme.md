@@ -1,0 +1,1 @@
+Notebook feito para raspar o IMDB para puxar dados de reviews para realizar análises.
